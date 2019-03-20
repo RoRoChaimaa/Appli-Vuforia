@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="coin" size="5.000000 5.007692" />
+    <ImageTarget name="Thief" size="5.000000 5.000000" />
+    <ImageTarget name="LogoCN_RVB" size="5.000000 2.822404" />
+  </Tracking>
+</QCARConfig>
